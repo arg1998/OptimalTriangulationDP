@@ -4,5 +4,5 @@ Implementation of **Optimal Triangulation Problem** using **Dynamic Programming*
 * GUI is built with `processing3` library (Java version)
 
 
-#Screenshot
+# Screenshot
 ![](image.png)
